@@ -26,4 +26,6 @@
 
 ## Discussão:
  
- <p> <p>
+### Binária vs AVL 
+ 
+<p> Na comparação entre essa duas estruturas reparamos que a medida que aumentamos o número de dados inseridos a AVL se mostra mais competente para realizar a operação de busca. Isso se deve que ao conceito de equilíbro da AVL, diferente da Binaria na qual realizará uma maior quantidade de comparações devido ao seu não balanceamento <p>

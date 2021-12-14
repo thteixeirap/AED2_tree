@@ -19,6 +19,8 @@
 
 ### Exemplos da saída do programa:
 
-Exemplo de algumas saídas salvas para realizar o calculo da média.
-<img src="https://user-images.githubusercontent.com/78819692/145931995-9e8f910a-8f29-4268-a547-1c3c2c8f602a.png" width="700">
+<p>Exemplo de algumas saídas salvas para realizar o calculo da média.<p>
+
+
+<img src="https://user-images.githubusercontent.com/78819692/145931995-9e8f910a-8f29-4268-a547-1c3c2c8f602a.png" width="1000">
 

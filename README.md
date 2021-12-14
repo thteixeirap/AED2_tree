@@ -19,7 +19,7 @@
 
 ### Exemplos da saída do programa:
 
-<p>Exemplo de algumas saídas salvas para realizar o calculo da média.<p>
+<p>Exemplo de algumas saídas salvas para realizar o calculo da média (Árvore binária).<p>
 
 
 <img src="https://user-images.githubusercontent.com/78819692/145931995-9e8f910a-8f29-4268-a547-1c3c2c8f602a.png" width="1000">

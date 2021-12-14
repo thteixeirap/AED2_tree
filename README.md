@@ -8,7 +8,7 @@
 
 #### Execução
 
-- Usando o MAKEFILE do VsCode
+- Usado o MAKEFILE do VsCode
 
 - Programa criado no Windowns 10, VisualCode
   

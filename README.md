@@ -25,7 +25,7 @@
 
 ### Realização da média
 
-<p> Foi realizada o cálculo da média do tempo de inserção e de pesquisa a partir dos resultados realizados 10 vezes, tendo assim a fórmula M = (soma de N entradas) / N. O resultado foi representado na forma de gráficos separados a a partir da quantidade de dados que o programa usou. Desse modo, esta dividido em 3 gráficos, um usando a base de 1000, 100000 e 1000000 números do tipo float. Nesse mesmo critério, foi feito um gráfico para representar o tempo de inserção desse dados <p>
+<p> Foi realizada o cálculo da média do tempo de inserção e de pesquisa a partir dos resultados realizados 10 vezes, tendo assim a fórmula M = (soma de N entradas) / N. O resultado foi representado na forma de gráficos separados a a partir da quantidade de dados que o programa usou. Desse modo, esta dividido em 3 gráficos, um usando a base de 1000, 100000 e 1000000 números do tipo float. A barra de coloração cinza representa a procura de 5000 dados, a de cor laranja representa 10000 e a de cor azul representa 100000 dados (dados esses números do tipo float. Nesse mesmo critério, foi feito um gráfico para representar o tempo de inserção desse dados <p>
 
 <img src="https://user-images.githubusercontent.com/78819692/145930700-25cc8505-7858-473d-b642-cd20f8c55118.png" width="700">
 <img src="https://user-images.githubusercontent.com/78819692/145930989-4d30abad-99ba-48cd-ad78-cb654b03880e.png" width="700">

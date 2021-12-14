@@ -33,6 +33,8 @@
   <p>Portanto, se estamos falando de uma implementação na qual iremos esta inserindo um número elevado de dados nessa árvore, a melhor escolha será a árvore AVL. Se caso for fazer uma implementação onde não irei estar inserindo muitos dados nessa árvore, o mais indicado seria a Binaria<p>
 
 ### AVL vs RUBRO NEGRA   
+  
+<p> Falando de código, a vantagem da RB em comparação com a AVL está na necessidade somente de rotações simples a esquerda e a direita. Mesmo tendo  <p>
    
    
 ### DIFICULDADES ENCONTRADAS

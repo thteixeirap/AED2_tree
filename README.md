@@ -34,9 +34,9 @@
 
 ### AVL vs RUBRO NEGRA   
   
-<p> Falando de código, a vantagem da RB em comparação com a AVL está na necessidade somente de rotações simples a esquerda e a direita. Mesmo tendo  <p>
+<p> Falando de código, a vantagem da RB em comparação com a AVL está na necessidade somente de rotações simples a esquerda e a direita. Mesmo tendo na teoria quase o mesmo custo assintótico, a AVL apresenta mais eficiente em comparação a RB.   <p>
    
    
 ### DIFICULDADES ENCONTRADAS
   
-<p> No decorrer da implementação da árvore rubro negra fui encontrando vários erros no qual não identificava. Portanto, para facilitar tentei implementar de acordo com o pseudo-código presente no livro do Cormen. Diferentemente da implementação da Binaria e AVL, não foi criado uma struct separada para armazenar a key do nó. A principal dificuldade foi tentar criar uma sentinela para as comparações (T.Nil) como presente no Cormen. Quando usava NULL estava encontrando muitos erros nas comparações tanto de inserção quando de rotação. Desse modo pesquisei por maneira de estar criando essa sentinela e encontrei sobre a criação desse T_Nil <p>
+<p> No decorrer da implementação da árvore rubro negra fui encontrando vários erros no qual não identificava. Portanto, para facilitar tentei implementar de acordo com o pseudo-código presente no livro do Cormen. Diferentemente da implementação da Binaria e AVL, não foi criado uma struct separada para armazenar a key do nó. A principal dificuldade foi tentar criar uma sentinela para as comparações (T.Nil) como presente no Cormen. Quando usava NULL estava encontrando muitos erros nas comparações tanto de inserção quando de rotação. Desse modo pesquisei por maneira de estar criando essa sentinela e encontrei sobre a criação desse T_Nil. Porém, mesmo achando esse facilitador, foram encontrados tempos muito diferente do esperado, no qual não foi encontrado o motivo desse erro <p>

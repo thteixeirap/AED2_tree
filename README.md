@@ -8,7 +8,7 @@
 
 #### Execução
 
-- Usado o MAKEFILE do VsCode
+- Usado o "C/C++ Makefile Project" extensão do VsCode
 
 - Programa criado no Windowns 10, VisualCode
   

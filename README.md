@@ -29,3 +29,4 @@
 ### Binária vs AVL 
  
 <p> Na comparação entre essa duas estruturas reparamos que a medida que aumentamos o número de dados inseridos a AVL se mostra mais competente para realizar a operação de busca. Isso se deve que ao conceito de equilíbro da AVL, diferente da Binaria na qual realizará uma maior quantidade de comparações devido ao seu não balanceamento <p>
+ <p> Sobre o tempo de inserção, a medida quevai aumentando a quantidade de números inseridos na AVL, aumentamos também seu tempo em comparação a Binária, no que isso se deve também ao fator de equilíbrio da AVL, que a medida que aumentamos a árvore, teremos que realizar mais rotações para manter sua altura equilibrada <p>

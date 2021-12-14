@@ -6,6 +6,23 @@
 </h4>
 <h1></h1>
 
+#### Execução
+
+- Usando o MAKEFILE do VsCode
+
+- Programa criado no Windowns 10, VisualCode
+  
+  Mudar no arquivo Makefile SRCDIR = "endereço da pasta"
+  
+  
+ Modo de execução:
+  
+- Abrir pasta do arquivo  ./ArvoresAED
+- Make
+- ArvoresAED.exe
+
+
+
 ### Realização da média
 
 <p> Foi realizada o cálculo da média do tempo de inserção e de pesquisa a partir dos resultados realizados 10 vezes, tendo assim a fórmula M = (soma de N entradas) / N. O resultado foi representado na forma de gráficos separados a a partir da quantidade de dados que o programa usou. Desse modo, esta dividido em 3 gráficos, um usando a base de 1000, 100000 e 1000000 números do tipo float. Nesse mesmo critério, foi feito um gráfico para representar o tempo de inserção desse dados <p>

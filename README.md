@@ -15,3 +15,10 @@
 <img src="https://user-images.githubusercontent.com/78819692/145931000-f2ca1297-d326-4eac-bdc7-a224e69062d7.png" width="700">
 <img src="https://user-images.githubusercontent.com/78819692/145931092-2e2a5d0a-4f56-45e3-865e-e2065efac79a.png" width="700">
 
+<h1></h1>
+
+### Exemplos da saída do programa:
+
+Exemplo de algumas saídas salvas para realizar o calculo da média.
+<img src="https://user-images.githubusercontent.com/78819692/145931995-9e8f910a-8f29-4268-a547-1c3c2c8f602a.png" width="700">
+

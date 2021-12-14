@@ -35,3 +35,6 @@
 ### AVL vs RUBRO NEGRA   
    
    
+### DIFICULDADES ENCONTRADAS
+  
+<p> No decorrer da implementação da árvore rubro negra fui encontrando vários erros no qual não identificava. Portanto, para facilitar tentei implementar de acordo com o pseudo-código presente no livro do Cormen. Diferentemente da implementação da Binaria e AVL, não foi criado uma struct separada para armazenar a key do nó. A principal dificuldade foi tentar criar uma sentinela para as comparações (T.Nil) como presente no Cormen. Quando usava NULL estava encontrando muitos erros nas comparações tanto de inserção quando de rotação. Desse modo pesquisei por maneira de estar criando essa sentinela e encontrei sobre a criação desse T_Nil <p>

@@ -34,7 +34,7 @@
 
 ### AVL vs RUBRO NEGRA   
   
-<p> Falando de código, a vantagem da RB em comparação com a AVL está na necessidade somente de rotações simples a esquerda e a direita. Mesmo tendo na teoria quase o mesmo custo assintótico, a AVL apresenta mais eficiente em comparação a RB.   <p>
+<p> Falando de código, a vantagem da RB em comparação com a AVL está na necessidade somente de rotações simples a esquerda e a direita. Mesmo tendo na teoria quase o mesmo custo assintótico, a AVL apresenta mais eficiente em comparação a RB. Teoricamente, a árvore Rubro Negra, para operações de inserção possui um desempenho superior a AVL, pois ela corrigir o fator de balanceamento, em muitos casos, é necessária apenas a mudança de cor.  <p>
    
    
 ### DIFICULDADES ENCONTRADAS
